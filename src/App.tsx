@@ -1,7 +1,7 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom"
 import Navbar from "./components/Navbar"
 import { CreatePost } from "./pages/create-post/create-post"
-import Home from "./pages/Home"
+import Home from "./pages/main/Home"
 import Login from "./pages/Login"
 
 function App() {
